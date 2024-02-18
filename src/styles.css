@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.grey-text-color{
+    color: grey;
+}
+.green-text-color{
+    color: greenyellow;
+}
+.blue-bg-color{
+    background-color: #47546d
+}
+.light-text-blue{
+    color: #66c3d1;
+}
+.white-color{
+    color: "#fff";
+    
+}
+
