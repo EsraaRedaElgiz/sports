@@ -5,7 +5,7 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root',
 })
 export class ProductStaticService {
-  baseURL: string = 'http://localhost:3005/products';
+  baseURL: string = 'https://shoes-i0ks.onrender.com/products';
 
   constructor(public http: HttpClient) {}
   //read
